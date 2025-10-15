@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/juniorSarh/Music-Playlist-Api/issues"
   },
-  "homepage": "https://github.com/juniorSarh/Music-Playlist-Api#readme"
+  "homepage": "https://github.com/juniorSarh/Music-Playlist-Api#readme",
+  "dependencies": {
+    "@types/node": "^24.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
 }
